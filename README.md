@@ -1,4 +1,4 @@
-# C# - WPF - Validation with MWWM Pattern and IDataErrorInfo Interface and Build Meta Data in WPF with DevExpress Component Package. [Year of Development: 2018 and 2020]
+# C# - WPF - Validation with MWWM Pattern and IDataErrorInfo and Fluent API Build Meta Data in WPF with DevExpress Component Package. [Year of Development: 2018 and 2020]
 
 About the application technologies and operation:
 
